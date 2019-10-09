@@ -1,0 +1,23 @@
+{
+  "name": "skycanner",
+  "version": "1.0.0",
+  "description": "method to create alerts for prices of flights",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodriguez-jan/CS-151-Project.git"
+  },
+  "author": "Jan Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodriguez-jan/CS-151-Project/issues"
+  },
+  "homepage": "https://github.com/rodriguez-jan/CS-151-Project#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}
